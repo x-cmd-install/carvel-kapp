@@ -7,7 +7,7 @@ about:
   head: c789392
   archived: false
   latestVersion: v0.65.4
-  collectedAt: 2026-09-04T19:53:06Z
+  collectedAt: 2026-09-04T20:47:24Z
 timeline:
   created: 2019-03-15
   lastCommit: 2026-08-17
@@ -81,6 +81,79 @@ total:
   openIssue: 110
   commit: 1066
 ---
+path: /home/runner/.x-repo/github.com/vmware-tanzu/carvel-kapp
+collectedAt: 2026-09-04T20:47:26Z
+loc:
+  Go:
+    code: 1006204
+    comments: 215551
+    blanks: 108835
+    files: 4111
+  Yaml:
+    code: 127038
+    comments: 1967
+    blanks: 589
+    files: 42
+  Protobuf:
+    code: 8803
+    comments: 22790
+    blanks: 4981
+    files: 70
+  AssemblyGAS:
+    code: 6870
+    comments: 371
+    blanks: 1789
+    files: 48
+  Json:
+    code: 1760
+    comments: 0
+    blanks: 0
+    files: 2
+  Sh:
+    code: 1417
+    comments: 167
+    blanks: 135
+    files: 23
+  Bash:
+    code: 404
+    comments: 60
+    blanks: 46
+    files: 3
+  Makefile:
+    code: 89
+    comments: 42
+    blanks: 34
+    files: 6
+  C:
+    code: 74
+    comments: 30
+    blanks: 24
+    files: 2
+  Toml:
+    code: 17
+    comments: 70
+    blanks: 8
+    files: 3
+  ForgeConfig:
+    code: 1
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 4374
+    blanks: 1818
+    files: 143
+  Text:
+    code: 0
+    comments: 3340
+    blanks: 83
+    files: 7
+total:
+  code: 1153611
+  comments: 248895
+  blanks: 118524
+  files: 4461
 ---
 date: "2026-08-24"
 repo:
