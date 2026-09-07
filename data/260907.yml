@@ -5,7 +5,7 @@ about:
   head: c789392
   archived: false
   latestVersion: "v0.65.4"
-  collectedAt: 2026-09-07T04:48:07Z
+  collectedAt: 2026-09-07T19:36:23Z
 timeline:
   created: 2019-03-15
   lastCommit: 2026-08-17
@@ -80,7 +80,7 @@ total:
   commit: 1066
 ---
 path: /home/runner/.x-repo/github.com/vmware-tanzu/carvel-kapp
-collectedAt: 2026-09-07T04:48:13Z
+collectedAt: 2026-09-07T19:36:32Z
 loc:
   Go:
     code: 1006204
@@ -271,7 +271,7 @@ checks:
       - 'Warn: 0 commits out of 30 are checked with a SAST tool'
 ---
 eget:
-  collectedAt: 2026-09-07T04:48:15+00:00
+  collectedAt: 2026-09-07T19:36:35+00:00
   platform:
     darwin/arm64:
       name:  kapp-darwin-arm64
