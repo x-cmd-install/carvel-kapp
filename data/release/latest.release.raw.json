@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 423,
       "digest": "sha256:7683f13fc6504563a9e16267baaf3a666b0659f5a62144636885a0cb6c2230e1",
-      "download_count": 76,
+      "download_count": 77,
       "created_at": "2026-08-25T10:45:59Z",
       "updated_at": "2026-08-25T10:45:59Z",
       "browser_download_url": "https://github.com/carvel-dev/kapp/releases/download/v0.65.4/checksums.txt"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 80702544,
       "digest": "sha256:d2f6a45c09703f2aff01422cc130f00f702094757c17804ab18de4dda2249ada",
-      "download_count": 43,
+      "download_count": 44,
       "created_at": "2026-08-25T10:45:55Z",
       "updated_at": "2026-08-25T10:45:58Z",
       "browser_download_url": "https://github.com/carvel-dev/kapp/releases/download/v0.65.4/kapp-darwin-amd64"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 78173633,
       "digest": "sha256:bf7df0647d7645572d45185bb8bf6a40dd1e631ff4ee1522bc8ce56db53bd243",
-      "download_count": 19570,
+      "download_count": 20235,
       "created_at": "2026-08-25T10:45:55Z",
       "updated_at": "2026-08-25T10:45:59Z",
       "browser_download_url": "https://github.com/carvel-dev/kapp/releases/download/v0.65.4/kapp-linux-amd64"
