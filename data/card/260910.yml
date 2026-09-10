@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.65.4"
   latestRelease: "v0.65.4"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T05:06:20Z
+  collectedAt: 2026-09-10T16:44:54Z
 timeline:
   created: 2019-03-15
   lastCommit: 2026-08-17
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-08-25
   lastPrerelease: 
 popularity:
-  star: 1081
+  star: 1082
   watcher: 23
   fork: 134
   release: 111
@@ -84,7 +84,7 @@ total:
   commit: 1066
 ---
 path: /home/runner/.x-repo/github.com/vmware-tanzu/carvel-kapp
-collectedAt: 2026-09-10T05:06:31Z
+collectedAt: 2026-09-10T16:45:00Z
 loc:
   Go:
     code: 1006204
