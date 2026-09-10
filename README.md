@@ -23,11 +23,23 @@ x install carvel-kapp
 - **Latest**: `v0.65.4` (2026-08-25)
 - **Last commit**: 2026-08-17
 - **Assets in release**: 8
-- **Published**: 2026-08-25T10:57:27Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [checksums.txt](https://github.com/vmware-tanzu/carvel-kapp/releases/download/v0.65.4/checksums.txt) | 423 B | `other` |
+| [checksums.txt.pem](https://github.com/vmware-tanzu/carvel-kapp/releases/download/v0.65.4/checksums.txt.pem) | 3.2 KiB | `other` |
+| [checksums.txt.sig](https://github.com/vmware-tanzu/carvel-kapp/releases/download/v0.65.4/checksums.txt.sig) | 92 B | `other` |
+| [kapp-darwin-amd64](https://github.com/vmware-tanzu/carvel-kapp/releases/download/v0.65.4/kapp-darwin-amd64) | 77.0 MiB | `native/darwin/x64` |
+| [kapp-darwin-arm64](https://github.com/vmware-tanzu/carvel-kapp/releases/download/v0.65.4/kapp-darwin-arm64) | 73.3 MiB | `native/darwin/arm64` |
+| [kapp-linux-amd64](https://github.com/vmware-tanzu/carvel-kapp/releases/download/v0.65.4/kapp-linux-amd64) | 74.6 MiB | `native/linux/x64` |
+| [kapp-linux-arm64](https://github.com/vmware-tanzu/carvel-kapp/releases/download/v0.65.4/kapp-linux-arm64) | 70.3 MiB | `native/linux/arm64` |
+| [kapp-windows-amd64.exe](https://github.com/vmware-tanzu/carvel-kapp/releases/download/v0.65.4/kapp-windows-amd64.exe) | 75.4 MiB | `native/win/x64` |
 
 ## Popularity
 
-- **Stars**: 1,081 · **Forks**: 134 · **Open issues**: 379 · **Contributors**: 81
+- **Stars**: 1,082 · **Forks**: 134 · **Open issues**: 379 · **Contributors**: 81
 
 ## Totals (cumulative)
 
@@ -68,8 +80,8 @@ Lowest-scoring checks:
 Install metadata for carvel-kapp lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `carvel-kapp` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/carvel-kapp.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/carvel-kapp.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T05:06:42Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T16:45:05Z._
