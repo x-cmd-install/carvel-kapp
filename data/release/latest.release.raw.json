@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 423,
       "digest": "sha256:7683f13fc6504563a9e16267baaf3a666b0659f5a62144636885a0cb6c2230e1",
-      "download_count": 111,
+      "download_count": 112,
       "created_at": "2026-08-25T10:45:59Z",
       "updated_at": "2026-08-25T10:45:59Z",
       "browser_download_url": "https://github.com/carvel-dev/kapp/releases/download/v0.65.4/checksums.txt"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 78173633,
       "digest": "sha256:bf7df0647d7645572d45185bb8bf6a40dd1e631ff4ee1522bc8ce56db53bd243",
-      "download_count": 25552,
+      "download_count": 25807,
       "created_at": "2026-08-25T10:45:55Z",
       "updated_at": "2026-08-25T10:45:59Z",
       "browser_download_url": "https://github.com/carvel-dev/kapp/releases/download/v0.65.4/kapp-linux-amd64"
