@@ -32,7 +32,7 @@ Lowest-scoring checks:
 
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
-- **Fuzzing** (0/10) — project is not fuzzed
+- **Pinned-Dependencies** (2/10) — dependency not pinned by hash detected -- score normalized to 2
 
 ## Source
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-16 | 1 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-17 | 1 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-17 | 1 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-03-19 | 3 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-09-20 | 5 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-09-25 | 8 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-08-17 | 1 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-18 | 1 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-18 | 1 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-20 | 3 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-09-21 | 5 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-09-26 | 8 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
@@ -87,4 +87,4 @@ Install metadata for carvel-kapp lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260915.yml` · 2026-09-15T05:30:16Z._
+_Snapshot: `data/card/260916.yml` · 2026-09-16T05:09:43Z._
