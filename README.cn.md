@@ -4,7 +4,7 @@
 
 kapp is a simple deployment tool focused on the concept of "Kubernetes application" — a set of resources with the same label
 
-![carvel-kapp](https://repo.x-cmd.io/carvel-kapp.svg?lang=zh)
+[![x-cmd/install — carvel-kapp Code Quality Monitoring Repo Card](https://repo.x-cmd.io/carvel-kapp.svg?lang=zh)](https://x-cmd.com/install/carvel-kapp)
 
 ## 安装
 
@@ -48,7 +48,7 @@ x install carvel-kapp
 
 ## 流行度
 
-- **Star**: 1,082 · **Fork**: 134 · **开放 issue**: 379 · **贡献者**: 81
+- **Star**: 1,083 · **Fork**: 134 · **开放 issue**: 379 · **贡献者**: 81
 
 ## 累计统计
 
@@ -58,12 +58,12 @@ x install carvel-kapp
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 1 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-20 | 1 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-20 | 1 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-03-22 | 3 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-09-23 | 5 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-09-28 | 8 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-08-21 | 1 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-22 | 1 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-22 | 1 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-24 | 3 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-09-25 | 5 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-09-30 | 8 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release 资产
 
@@ -87,4 +87,4 @@ carvel-kapp 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/insta
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260918.yml` · 2026-09-18T05:08:02Z._
+_数据快照: `data/card/260920.yml` · 2026-09-20T05:21:17Z._
