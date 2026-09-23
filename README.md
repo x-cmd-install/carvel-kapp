@@ -4,7 +4,7 @@
 
 kapp is a simple deployment tool focused on the concept of "Kubernetes application" — a set of resources with the same label
 
-[![x-cmd/install — carvel-kapp Code Quality Monitoring Repo Card](https://repo.x-cmd.io/carvel-kapp.svg)](https://x-cmd.com/install/carvel-kapp)
+[![x-cmd/install — carvel-kapp Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/carvel-kapp.svg)](https://x-cmd.com/install/carvel-kapp)
 
 ## Install
 
@@ -32,7 +32,7 @@ Lowest-scoring checks:
 
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
-- **Pinned-Dependencies** (2/10) — dependency not pinned by hash detected -- score normalized to 2
+- **Fuzzing** (0/10) — project is not fuzzed
 
 ## Source
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 1 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-24 | 1 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-24 | 1 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-03-26 | 3 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-09-27 | 5 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-10-02 | 8 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-08-24 | 1 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-25 | 1 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-25 | 1 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-27 | 3 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-09-28 | 5 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-10-03 | 8 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
@@ -87,4 +87,4 @@ Install metadata for carvel-kapp lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T05:19:59Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T05:33:11Z._
