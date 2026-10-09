@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 423,
       "digest": "sha256:7683f13fc6504563a9e16267baaf3a666b0659f5a62144636885a0cb6c2230e1",
-      "download_count": 779,
+      "download_count": 831,
       "created_at": "2026-08-25T10:45:59Z",
       "updated_at": "2026-08-25T10:45:59Z",
       "browser_download_url": "https://github.com/carvel-dev/kapp/releases/download/v0.65.4/checksums.txt"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 76864130,
       "digest": "sha256:a7ecd6a2ac62fdce02bb40784f2701e2421539e4bae6c3cd58dc8e943170c666",
-      "download_count": 266,
+      "download_count": 272,
       "created_at": "2026-08-25T10:45:55Z",
       "updated_at": "2026-08-25T10:45:58Z",
       "browser_download_url": "https://github.com/carvel-dev/kapp/releases/download/v0.65.4/kapp-darwin-arm64"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 78173633,
       "digest": "sha256:bf7df0647d7645572d45185bb8bf6a40dd1e631ff4ee1522bc8ce56db53bd243",
-      "download_count": 70568,
+      "download_count": 72873,
       "created_at": "2026-08-25T10:45:55Z",
       "updated_at": "2026-08-25T10:45:59Z",
       "browser_download_url": "https://github.com/carvel-dev/kapp/releases/download/v0.65.4/kapp-linux-amd64"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 73720386,
       "digest": "sha256:e41693ac3d69e1143c7e5fe870712ca05ed810e1e0bc5b00f77ca22ba0f18ae1",
-      "download_count": 113,
+      "download_count": 115,
       "created_at": "2026-08-25T10:45:55Z",
       "updated_at": "2026-08-25T10:45:59Z",
       "browser_download_url": "https://github.com/carvel-dev/kapp/releases/download/v0.65.4/kapp-linux-arm64"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 79057920,
       "digest": "sha256:e9c0c3e48ba2b3c26380b6a997dcf1798b19147c3e9a11895a4e9c55c52470b0",
-      "download_count": 80,
+      "download_count": 85,
       "created_at": "2026-08-25T10:45:58Z",
       "updated_at": "2026-08-25T10:46:02Z",
       "browser_download_url": "https://github.com/carvel-dev/kapp/releases/download/v0.65.4/kapp-windows-amd64.exe"
