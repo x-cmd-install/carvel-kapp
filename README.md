@@ -48,35 +48,35 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 1,092 · **Forks**: 134 · **Open issues**: 379 · **Contributors**: 82
+- **Stars**: 1,098 · **Forks**: 134 · **Open issues**: 380 · **Contributors**: 82
 
 ## Totals (cumulative)
 
-- **Releases**: 113 · **Merged PRs**: 454 · **Open PRs**: 20 · **Closed issues**: 270 · **Open issues**: 109 · **Commits**: 1071
+- **Releases**: 113 · **Merged PRs**: 454 · **Open PRs**: 20 · **Closed issues**: 270 · **Open issues**: 110 · **Commits**: 1071
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-19 | 2 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-20 | 3 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-21 | 3 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-04-22 | 5 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-10-24 | 7 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-10-29 | 10 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-09-20 | 2 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-21 | 3 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-07-22 | 3 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-04-23 | 5 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-10-25 | 7 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-10-30 | 10 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [checksums.txt](https://github.com/vmware-tanzu/carvel-kapp/releases/download/v0.65.5/checksums.txt) | 423 B | `other` |
-| [checksums.txt.pem](https://github.com/vmware-tanzu/carvel-kapp/releases/download/v0.65.5/checksums.txt.pem) | 3.1 KiB | `other` |
-| [checksums.txt.sig](https://github.com/vmware-tanzu/carvel-kapp/releases/download/v0.65.5/checksums.txt.sig) | 96 B | `other` |
-| [kapp-darwin-amd64](https://github.com/vmware-tanzu/carvel-kapp/releases/download/v0.65.5/kapp-darwin-amd64) | 77.0 MiB | `native/darwin/x64` |
-| [kapp-darwin-arm64](https://github.com/vmware-tanzu/carvel-kapp/releases/download/v0.65.5/kapp-darwin-arm64) | 73.3 MiB | `native/darwin/arm64` |
-| [kapp-linux-amd64](https://github.com/vmware-tanzu/carvel-kapp/releases/download/v0.65.5/kapp-linux-amd64) | 74.6 MiB | `native/linux/x64` |
-| [kapp-linux-arm64](https://github.com/vmware-tanzu/carvel-kapp/releases/download/v0.65.5/kapp-linux-arm64) | 70.3 MiB | `native/linux/arm64` |
-| [kapp-windows-amd64.exe](https://github.com/vmware-tanzu/carvel-kapp/releases/download/v0.65.5/kapp-windows-amd64.exe) | 75.4 MiB | `native/win/x64` |
+| [checksums.txt](https://github.com/vmware-tanzu/carvel-kapp/releases/download/v0.66.1/checksums.txt) | 423 B | `other` |
+| [checksums.txt.pem](https://github.com/vmware-tanzu/carvel-kapp/releases/download/v0.66.1/checksums.txt.pem) | 3.1 KiB | `other` |
+| [checksums.txt.sig](https://github.com/vmware-tanzu/carvel-kapp/releases/download/v0.66.1/checksums.txt.sig) | 96 B | `other` |
+| [kapp-darwin-amd64](https://github.com/vmware-tanzu/carvel-kapp/releases/download/v0.66.1/kapp-darwin-amd64) | 74.6 MiB | `native/darwin/x64` |
+| [kapp-darwin-arm64](https://github.com/vmware-tanzu/carvel-kapp/releases/download/v0.66.1/kapp-darwin-arm64) | 70.5 MiB | `native/darwin/arm64` |
+| [kapp-linux-amd64](https://github.com/vmware-tanzu/carvel-kapp/releases/download/v0.66.1/kapp-linux-amd64) | 72.5 MiB | `native/linux/x64` |
+| [kapp-linux-arm64](https://github.com/vmware-tanzu/carvel-kapp/releases/download/v0.66.1/kapp-linux-arm64) | 67.8 MiB | `native/linux/arm64` |
+| [kapp-windows-amd64.exe](https://github.com/vmware-tanzu/carvel-kapp/releases/download/v0.66.1/kapp-windows-amd64.exe) | 73.1 MiB | `native/win/x64` |
 
 ## Improve this data
 
@@ -87,4 +87,4 @@ Install metadata for carvel-kapp lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261019.yml` · 2026-10-19T04:48:13Z._
+_Snapshot: `data/card/261020.yml` · 2026-10-20T05:05:19Z._
