@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 1,098 · **Forks**: 134 · **Open issues**: 380 · **Contributors**: 82
+- **Stars**: 1,099 · **Forks**: 134 · **Open issues**: 380 · **Contributors**: 82
 
 ## Totals (cumulative)
 
-- **Releases**: 113 · **Merged PRs**: 454 · **Open PRs**: 20 · **Closed issues**: 270 · **Open issues**: 110 · **Commits**: 1071
+- **Releases**: 113 · **Merged PRs**: 454 · **Open PRs**: 21 · **Closed issues**: 270 · **Open issues**: 110 · **Commits**: 1071
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-20 | 2 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-21 | 3 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-22 | 3 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-04-23 | 5 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-10-25 | 7 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-10-30 | 10 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-09-21 | 2 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-22 | 3 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-07-23 | 3 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-04-24 | 5 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-10-26 | 7 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-10-31 | 10 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
@@ -87,4 +87,4 @@ Install metadata for carvel-kapp lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261020.yml` · 2026-10-20T05:05:19Z._
+_Snapshot: `data/card/261021.yml` · 2026-10-21T04:56:32Z._
