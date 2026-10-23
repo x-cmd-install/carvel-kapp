@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 113 · **Merged PRs**: 454 · **Open PRs**: 21 · **Closed issues**: 270 · **Open issues**: 110 · **Commits**: 1071
+- **Releases**: 113 · **Merged PRs**: 454 · **Open PRs**: 22 · **Closed issues**: 270 · **Open issues**: 110 · **Commits**: 1071
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 2 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-23 | 3 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-24 | 3 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-04-25 | 5 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-10-27 | 7 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-11-01 | 10 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-09-23 | 2 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-24 | 3 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-07-25 | 3 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-04-26 | 5 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-10-28 | 7 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-11-02 | 10 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
@@ -87,4 +87,4 @@ Install metadata for carvel-kapp lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T04:55:06Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T04:59:00Z._
