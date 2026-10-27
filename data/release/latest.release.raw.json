@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 423,
       "digest": "sha256:94ff552a926744f18f26080d761d5fcd30d3f533454c031996e8015bd689704d",
-      "download_count": 49,
+      "download_count": 55,
       "created_at": "2026-10-13T11:06:15Z",
       "updated_at": "2026-10-13T11:06:15Z",
       "browser_download_url": "https://github.com/carvel-dev/kapp/releases/download/v0.66.1/checksums.txt"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 78233600,
       "digest": "sha256:07d8bca1556e0cb3355a82f11a4a1aadfd676795ee407b30f4c99d3d0594e963",
-      "download_count": 57,
+      "download_count": 60,
       "created_at": "2026-10-13T11:06:15Z",
       "updated_at": "2026-10-13T11:06:18Z",
       "browser_download_url": "https://github.com/carvel-dev/kapp/releases/download/v0.66.1/kapp-darwin-amd64"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 73973810,
       "digest": "sha256:42a508769f0c3d2bef48c5d82028d5ad41632fdea10bafb348a16d12ca23c613",
-      "download_count": 145,
+      "download_count": 153,
       "created_at": "2026-10-13T11:06:11Z",
       "updated_at": "2026-10-13T11:06:15Z",
       "browser_download_url": "https://github.com/carvel-dev/kapp/releases/download/v0.66.1/kapp-darwin-arm64"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 75970247,
       "digest": "sha256:af3a5051fdaacc477528f288a45516811bcc8b35c67ba68c04c95a7543daba2e",
-      "download_count": 9887,
+      "download_count": 10593,
       "created_at": "2026-10-13T11:06:11Z",
       "updated_at": "2026-10-13T11:06:15Z",
       "browser_download_url": "https://github.com/carvel-dev/kapp/releases/download/v0.66.1/kapp-linux-amd64"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 71136435,
       "digest": "sha256:d64989caa229a3427376de44bf2e739e4631a21f69d2968758d01c903c004fe0",
-      "download_count": 112,
+      "download_count": 120,
       "created_at": "2026-10-13T11:06:11Z",
       "updated_at": "2026-10-13T11:06:15Z",
       "browser_download_url": "https://github.com/carvel-dev/kapp/releases/download/v0.66.1/kapp-linux-arm64"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 76696064,
       "digest": "sha256:c7d7f99ed4691996a73e08fd803bd4626ca3d1bb6623fe4971e9964aa75ae4c9",
-      "download_count": 58,
+      "download_count": 61,
       "created_at": "2026-10-13T11:06:11Z",
       "updated_at": "2026-10-13T11:06:15Z",
       "browser_download_url": "https://github.com/carvel-dev/kapp/releases/download/v0.66.1/kapp-windows-amd64.exe"
