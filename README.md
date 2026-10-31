@@ -14,11 +14,11 @@ x install carvel-kapp
 
 ## Code insight
 
-Total: **1,155,808** lines of code across **4209** files in the top 5 languages.
+Total: **1,156,190** lines of code across **4210** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 1,009,542 | 218,556 | 108,476 | 4048 |
+| Go | 1,009,924 | 218,569 | 108,500 | 4049 |
 | Yaml | 127,038 | 1,967 | 589 | 42 |
 | Protobuf | 8,706 | 23,803 | 4,921 | 68 |
 | AssemblyGAS | 6,767 | 370 | 1,779 | 49 |
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.65.5` (2026-10-15)
-- **Last commit**: 2026-10-26
+- **Last commit**: 2026-10-30
 - **Assets in release**: 8
 
 ## Popularity
 
-- **Stars**: 1,099 · **Forks**: 136 · **Open issues**: 380 · **Contributors**: 82
+- **Stars**: 1,099 · **Forks**: 136 · **Open issues**: 380 · **Contributors**: 83
 
 ## Totals (cumulative)
 
-- **Releases**: 113 · **Merged PRs**: 455 · **Open PRs**: 23 · **Closed issues**: 270 · **Open issues**: 110 · **Commits**: 1073
+- **Releases**: 113 · **Merged PRs**: 456 · **Open PRs**: 22 · **Closed issues**: 271 · **Open issues**: 109 · **Commits**: 1075
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-30 | 2 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-31 | 2 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-01 | 3 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-03 | 4 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-11-04 | 7 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-11-09 | 10 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-10-01 | 2 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-01 | 2 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-02 | 3 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-04 | 4 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-11-05 | 7 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-11-10 | 10 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
@@ -87,4 +87,4 @@ Install metadata for carvel-kapp lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261030.yml` · 2026-10-30T05:58:58Z._
+_Snapshot: `data/card/261031.yml` · 2026-10-31T05:50:53Z._
