@@ -32,7 +32,7 @@ Lowest-scoring checks:
 
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
-- **Pinned-Dependencies** (2/10) — dependency not pinned by hash detected -- score normalized to 2
+- **Fuzzing** (0/10) — project is not fuzzed
 
 ## Source
 
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 1,100 · **Forks**: 135 · **Open issues**: 380 · **Contributors**: 84
+- **Stars**: 1,101 · **Forks**: 135 · **Open issues**: 380 · **Contributors**: 84
 
 ## Totals (cumulative)
 
-- **Releases**: 113 · **Merged PRs**: 457 · **Open PRs**: 21 · **Closed issues**: 272 · **Open issues**: 108 · **Commits**: 1077
+- **Releases**: 113 · **Merged PRs**: 457 · **Open PRs**: 22 · **Closed issues**: 272 · **Open issues**: 108 · **Commits**: 1077
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-05 | 2 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-05 | 2 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-06 | 3 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-08 | 4 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-11-09 | 7 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-11-14 | 10 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-10-06 | 2 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-06 | 2 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-07 | 3 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-09 | 4 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-11-10 | 7 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-11-15 | 10 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
@@ -87,4 +87,4 @@ Install metadata for carvel-kapp lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261104.yml` · 2026-11-04T06:32:13Z._
+_Snapshot: `data/card/261105.yml` · 2026-11-05T07:03:16Z._
