@@ -42,7 +42,7 @@ x install carvel-kapp
 
 ## 发布
 
-- **最新版本**: `v0.65.5` (2026-10-15)
+- **最新版本**: `v0.66.2` (2026-11-12)
 - **最近提交**: 2026-11-11
 - **Release 含资产**: 8 个
 
@@ -52,31 +52,31 @@ x install carvel-kapp
 
 ## 累计统计
 
-- **发布数**: 113 · **已合并 PR**: 458 · **开放 PR**: 22 · **已关闭 issue**: 272 · **开放 issue**: 108 · **提交数**: 1079
+- **发布数**: 114 · **已合并 PR**: 458 · **开放 PR**: 22 · **已关闭 issue**: 272 · **开放 issue**: 108 · **提交数**: 1079
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-13 | 2 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-13 | 2 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-14 | 3 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-16 | 3 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-11-17 | 7 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-11-22 | 10 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-10-14 | 2 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-14 | 3 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-15 | 4 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-17 | 4 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-11-18 | 8 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-11-23 | 11 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [checksums.txt](https://github.com/vmware-tanzu/carvel-kapp/releases/download/v0.66.1/checksums.txt) | 423 B | `other` |
-| [checksums.txt.pem](https://github.com/vmware-tanzu/carvel-kapp/releases/download/v0.66.1/checksums.txt.pem) | 3.1 KiB | `other` |
-| [checksums.txt.sig](https://github.com/vmware-tanzu/carvel-kapp/releases/download/v0.66.1/checksums.txt.sig) | 96 B | `other` |
-| [kapp-darwin-amd64](https://github.com/vmware-tanzu/carvel-kapp/releases/download/v0.66.1/kapp-darwin-amd64) | 74.6 MiB | `native/darwin/x64` |
-| [kapp-darwin-arm64](https://github.com/vmware-tanzu/carvel-kapp/releases/download/v0.66.1/kapp-darwin-arm64) | 70.5 MiB | `native/darwin/arm64` |
-| [kapp-linux-amd64](https://github.com/vmware-tanzu/carvel-kapp/releases/download/v0.66.1/kapp-linux-amd64) | 72.5 MiB | `native/linux/x64` |
-| [kapp-linux-arm64](https://github.com/vmware-tanzu/carvel-kapp/releases/download/v0.66.1/kapp-linux-arm64) | 67.8 MiB | `native/linux/arm64` |
-| [kapp-windows-amd64.exe](https://github.com/vmware-tanzu/carvel-kapp/releases/download/v0.66.1/kapp-windows-amd64.exe) | 73.1 MiB | `native/win/x64` |
+| [checksums.txt](https://github.com/vmware-tanzu/carvel-kapp/releases/download/v0.66.2/checksums.txt) | 423 B | `other` |
+| [checksums.txt.pem](https://github.com/vmware-tanzu/carvel-kapp/releases/download/v0.66.2/checksums.txt.pem) | 3.1 KiB | `other` |
+| [checksums.txt.sig](https://github.com/vmware-tanzu/carvel-kapp/releases/download/v0.66.2/checksums.txt.sig) | 96 B | `other` |
+| [kapp-darwin-amd64](https://github.com/vmware-tanzu/carvel-kapp/releases/download/v0.66.2/kapp-darwin-amd64) | 74.9 MiB | `native/darwin/x64` |
+| [kapp-darwin-arm64](https://github.com/vmware-tanzu/carvel-kapp/releases/download/v0.66.2/kapp-darwin-arm64) | 70.8 MiB | `native/darwin/arm64` |
+| [kapp-linux-amd64](https://github.com/vmware-tanzu/carvel-kapp/releases/download/v0.66.2/kapp-linux-amd64) | 72.8 MiB | `native/linux/x64` |
+| [kapp-linux-arm64](https://github.com/vmware-tanzu/carvel-kapp/releases/download/v0.66.2/kapp-linux-arm64) | 68.1 MiB | `native/linux/arm64` |
+| [kapp-windows-amd64.exe](https://github.com/vmware-tanzu/carvel-kapp/releases/download/v0.66.2/kapp-windows-amd64.exe) | 73.5 MiB | `native/win/x64` |
 
 ## 改进这些数据
 
@@ -87,4 +87,4 @@ carvel-kapp 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/insta
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261112.yml` · 2026-11-12T07:30:53Z._
+_数据快照: `data/card/261113.yml` · 2026-11-13T06:56:32Z._
